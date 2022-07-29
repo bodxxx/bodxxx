@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bodxxx
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning JavaScript, CMS Drupal and a lot of different stuff.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
 -  my telegram is @kargee 
 - my linkedin is https://www.linkedin.com/in/bogdan-garbuzov-809719210
